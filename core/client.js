@@ -1,4 +1,4 @@
-const {Client, Collection} = require('discord.js-light');
+const {Client, Collection} = require('discord.js');
 
 class client extends Client {
     constructor() {

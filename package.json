@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/xWhiteline/vidar-bot#readme",
   "dependencies": {
+    "@discordjs/opus": "^0.5.0",
     "bufferutil": "^4.0.3",
-    "discord.js-light": "^3.5.7",
+    "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
-    "utf-8-validate": "^5.0.4",
-    "zlib-sync": "^0.1.7"
+    "utf-8-validate": "^5.0.4"
   }
 }
